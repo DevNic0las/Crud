@@ -1,0 +1,226 @@
+{
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Papelaria"
+    },
+    {
+      "id": "2",
+      "nome": "Moveis"
+    },
+    {
+      "id": "3",
+      "nome": "Eletrônicos"
+    },
+    {
+      "id": "4",
+      "nome": "Alimentos"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "carregador",
+      "preco": 50,
+      "id": "8"
+    },
+    {
+      "id": "9",
+      "nome": "Tesoura",
+      "categoriaId": 1,
+      "preco": 3.5,
+      "descricao": "Tesoura sem ponta"
+    },
+    {
+      "id": "10",
+      "nome": "Cola",
+      "categoriaId": 1,
+      "preco": 2,
+      "descricao": "Cola branca 40g"
+    },
+    {
+      "id": "12",
+      "nome": "Cadeira",
+      "categoriaId": 2,
+      "preco": 75,
+      "descricao": null
+    },
+    {
+      "nome": "cs",
+      "preco": 120,
+      "id": "14"
+    },
+    {
+      "id": "15",
+      "nome": "Cama",
+      "categoriaId": 2,
+      "preco": 400,
+      "descricao": "Cama de casal"
+    },
+    {
+      "id": "16",
+      "nome": "Guarda-Roupa",
+      "categoriaId": 2,
+      "preco": 500,
+      "descricao": null
+    },
+    {
+      "id": "17",
+      "nome": "Escrivaninha",
+      "categoriaId": 2,
+      "preco": 100,
+      "descricao": "Escrivaninha compacta"
+    },
+    {
+      "id": "18",
+      "nome": "Mesa de Centro",
+      "categoriaId": 2,
+      "preco": 120,
+      "descricao": "Mesa de centro de madeira"
+    },
+    {
+      "id": "19",
+      "nome": "Cômoda",
+      "categoriaId": 2,
+      "preco": 180,
+      "descricao": null
+    },
+    {
+      "id": "20",
+      "nome": "Poltrona",
+      "categoriaId": 2,
+      "preco": 250,
+      "descricao": "Poltrona reclinável"
+    },
+    {
+      "id": "21",
+      "nome": "Smartphone",
+      "categoriaId": 3,
+      "preco": 1200,
+      "descricao": "Smartphone com 128GB de armazenamento"
+    },
+    {
+      "nome": "cs",
+      "preco": 12,
+      "id": "22"
+    },
+    {
+      "id": "23",
+      "nome": "Tablet",
+      "categoriaId": 3,
+      "preco": 1500,
+      "descricao": "Tablet com tela de 10 polegadas"
+    },
+    {
+      "id": "24",
+      "nome": "Smartwatch",
+      "categoriaId": 3,
+      "preco": 800,
+      "descricao": null
+    },
+    {
+      "id": "25",
+      "nome": "Fone de Ouvido",
+      "categoriaId": 3,
+      "preco": 300,
+      "descricao": "Fone de ouvido sem fio"
+    },
+    {
+      "id": "26",
+      "nome": "Televisão",
+      "categoriaId": 3,
+      "preco": 2500,
+      "descricao": null
+    },
+    {
+      "id": "27",
+      "nome": "Caixa de Som",
+      "categoriaId": 3,
+      "preco": 500,
+      "descricao": "Caixa de som bluetooth"
+    },
+    {
+      "id": "28",
+      "nome": "Câmera",
+      "categoriaId": 3,
+      "preco": 2000,
+      "descricao": null
+    },
+    {
+      "id": "29",
+      "nome": "Impressora",
+      "categoriaId": 3,
+      "preco": 700,
+      "descricao": "Impressora multifuncional"
+    },
+    {
+      "id": "30",
+      "nome": "Monitor",
+      "categoriaId": 3,
+      "preco": 800,
+      "descricao": null
+    },
+    {
+      "id": "31",
+      "nome": "Arroz",
+      "categoriaId": 4,
+      "preco": 10,
+      "descricao": "Arroz branco 1kg"
+    },
+    {
+      "id": "32",
+      "nome": "Feijão",
+      "categoriaId": 4,
+      "preco": 8,
+      "descricao": null
+    },
+    {
+      "id": "33",
+      "nome": "Macarrão",
+      "categoriaId": 4,
+      "preco": 5,
+      "descricao": "Macarrão espaguete 500g"
+    },
+    {
+      "id": "34",
+      "nome": "Carne",
+      "categoriaId": 4,
+      "preco": 25,
+      "descricao": null
+    },
+    {
+      "id": "35",
+      "nome": "Frango",
+      "categoriaId": 4,
+      "preco": 15,
+      "descricao": "Frango inteiro 1kg"
+    },
+    {
+      "id": "36",
+      "nome": "Leite",
+      "categoriaId": 4,
+      "preco": 4,
+      "descricao": null
+    },
+    {
+      "id": "37",
+      "nome": "Ovos",
+      "categoriaId": 4,
+      "preco": 6,
+      "descricao": "Cartela com 12 ovos"
+    },
+    {
+      "id": "38",
+      "nome": "Pão",
+      "categoriaId": 4,
+      "preco": 3,
+      "descricao": null
+    },
+    {
+      "id": "39",
+      "nome": "Queijo",
+      "categoriaId": 4,
+      "preco": 20,
+      "descricao": "Queijo mussarela 500g"
+    }
+  ]
+}
